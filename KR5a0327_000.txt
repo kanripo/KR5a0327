@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:46:50.774985
+# -*- mode: mandoku-view -*-
 #+TITLE: 宋真宗禦制玉京集
-#+PROPERTY: DZID  DZ0315
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—795 六卷 洞真部表奏類
+#+DATE: 2015-08-28 23:46:52
+#+PROPERTY:  LASTPB <PB KR5a0327_SJB_006-050815a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶
+
